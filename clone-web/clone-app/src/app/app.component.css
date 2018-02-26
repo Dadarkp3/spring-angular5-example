@@ -6,6 +6,11 @@
     position: fixed;
     width: 100vw;
   }
+
+  .header-text{
+    margin-top: 39vh;
+    padding: 0 1rem;
+  }
   
   /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
   .row.content {height: 450px}
