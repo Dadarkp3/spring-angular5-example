@@ -37,13 +37,14 @@
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('/assets/headerbg.jpg');
+    background-image: url('/assets/headerbg1.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    text-shadow: 2px -1px 0px rgba(0, 0, 0, 0.4);
 }
 
 body {
